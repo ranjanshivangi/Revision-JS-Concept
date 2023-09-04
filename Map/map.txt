@@ -1,0 +1,1 @@
+The map is a collection of elements where each element is stored as a Key, value pair. Map objects can hold both objects and primitive values as either key or value. When we iterate over the map object it returns the key, and value pair in the same order as inserted. Map() constructor is used to create Map in JavaScript.
